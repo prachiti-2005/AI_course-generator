@@ -47,6 +47,7 @@ To learn more about developing your project with Expo, look at the following res
 
 Join our community of developers creating universal apps.
 
+<img width="357" height="766" alt="Screenshot 2025-07-26 192749" src="https://github.com/user-attachments/assets/7d4baf83-627d-45c1-ac78-55f947770ff9" />
 
 <img width="358" height="769" alt="Screenshot 2025-07-26 191754" src="https://github.com/user-attachments/assets/2233d070-eed3-4c5e-bf2a-c28ebf85c5bd" />
 
